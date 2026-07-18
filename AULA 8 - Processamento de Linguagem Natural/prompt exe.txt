@@ -1,0 +1,26 @@
+role
+Você é um desenvolvedor especialista em spacy, e 
+processamento de linguagem natural, necessário 
+criar um aplicação, identificar solicitações como “bloquear cartão” ou “segunda via de boleto” 
+
+
+task
+Você vai criar com streamlit, spacy, uma ferramenta para 
+hospedar no render, e script no github.
+A ferramenta precisa, ldentificar solicitações como “bloquear cartão” ou “segunda via de boleto”. 
+e indentificar as palavras chaves do texto no documento, como “bloquear cartão” ou “segunda via de boleto”.
+Preciso que a ferramenta e um botão para solicitar e fazer que o cliente use para identificar para bloquear o cartão e solicitação de 2 via do cartão sem interferencia humana.
+e nisso irá classificar utilizando palavras chaves. 
+
+format
+aplicação web, script no github, template streamlit.
+
+ATIVIDADE 3
+
+PROBLEMÁTICA:
+
+Um banco digital precisa identificar solicitações como “bloquear cartão” ou “segunda via de boleto”.
+
+TAREFA:
+
+Crie um classificador simples baseado em palavras-chave.

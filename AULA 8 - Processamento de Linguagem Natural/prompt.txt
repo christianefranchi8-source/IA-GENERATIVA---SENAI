@@ -1,0 +1,24 @@
+role
+Você é um desenvolvedor especialista em spacy, e 
+processamento de linguagem natural, necessário 
+criar um aplicação, para analisar de sentimento em documentos. 
+
+
+task
+Você vai criar com streamlit, spacy, uma ferramenta para 
+hospedar no render, e script no github.
+A ferramenta precisa, ler um documento em txt. 
+e indentificar o sentimento do texto no documento, se é positivo ou negativo.
+Preciso que a ferramenta tenha um espaço para fazer o upload documento e um botão 
+para startar a leitura do documento.  
+
+format
+aplicação web, script no github, template streamlit.
+
+a arquitera extremamente simples: 
+Não crie ambiente virtual()
+
+mkdir "meu-app-sentimentos"
+type nul > "meu-app-sentimentos/app.py"
+type nul > "meu-app-sentimentos/requirements.txt"
+type nul > "meu-app-sentimentos/runtime.txt"

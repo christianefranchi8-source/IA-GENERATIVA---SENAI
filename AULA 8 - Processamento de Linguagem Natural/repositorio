@@ -1,0 +1,4 @@
+📂 seu-repositorio
+├── app.py               # Código principal do Streamlit
+├── requirements.txt     # Dependências do projeto
+└── packages.txt         # Dependências do sistema (para o spaCy rodar no Render)
